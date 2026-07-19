@@ -27,6 +27,8 @@
     <junit.version>5.10.2</junit.version>
     <jacoco.version>0.8.12</jacoco.version>
     <allure.version>2.35.3</allure.version>
+
+    <sonar.organization>joy-yeung</sonar.organization>
   </properties>
 
   <dependencyManagement>
